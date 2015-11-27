@@ -13,7 +13,9 @@
 3. Rename and enter the project folder
 	- You can easily rename in Finder/Explorer
 	- Or at command line:
-		- `rn bootstrap-master [NEW-FOLDER-NAME]`
+		- `rn bootstrap [NEW-FOLDER-NAME]`
+	- Enter the folder using:
+		- `cd [NEW-FOLDER-NAME]`
 
 4. Setup a Github repository
 
