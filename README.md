@@ -13,7 +13,7 @@
 3. Rename and enter the project folder
 	- You can easily rename in Finder/Explorer
 	- Or at command line:
-		- `rn bootstrap [NEW-FOLDER-NAME]`
+		- `mv bootstrap [NEW-FOLDER-NAME]`
 	- Enter the folder using:
 		- `cd [NEW-FOLDER-NAME]`
 
