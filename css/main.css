@@ -55,6 +55,25 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+blockquote {
+    font-style: italic;
+    border-left-color: red;
+}
+
+.red {
+    background-color: #C54841;
+}
+.green {
+    background-color: #6AC56B;
+}
+.blue {
+    background-color: #7298C5;
+    text-align: left;
+}
+.orange {
+    background-color: #C58643;
+}
+
 
 
 
